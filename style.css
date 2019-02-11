@@ -1,0 +1,106 @@
+.topnav{
+	background-color: black;
+}
+ h6 {
+ 	color:white;
+ 	margin-bottom: 0rem; important!;
+ 	margin-left: 2rem;
+ }
+ .jumbotron {
+ 	background:transparent;
+ 	background-size: cover;
+ 	padding-top: 20%;
+      padding-bottom: 20%;
+ }
+
+ #sign {
+ 	margin-right: 2rem;
+ }
+
+ #title {
+ 	background:yellow;
+ 	font-family: 'Roboto Condensed', sans-serif;
+ 	text-shadow:  0.5px 1px #383434;
+
+ 	
+ }
+
+h1 {
+	font-weight: 600;
+}
+
+ body{
+ 	background:url("img/girl4.jpg");
+ 	background-size: cover;
+    background-position: center;
+    width:100%;
+    
+ }
+
+ footer {
+ 	background-color: white;
+ }
+
+a {
+	color:black;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-shadow:  0.5px 1px #383434;
+}
+
+a:hover {
+	color:white;
+	background-color:#fff007;
+}
+
+
+#sign {
+	color:white;
+}
+
+#of {
+	font-family: 'Lobster', cursive;
+}
+
+h2 {
+	font-family: 'Amatic SC', cursive;
+}
+
+#button {
+	font-family: "lobster";
+}
+
+#button:hover {
+	background-color:#fff007
+}
+
+hr {
+	margin:0px;
+}
+
+p {
+	font-family: "Roboto Condensed";
+}
+
+
+
+html {
+  font-size: 1rem;
+}
+
+
+
+
+
+
+
+@media (max-width: 767px) {                  
+	.content-to-hide {
+		 display: none;
+	}
+
+	h3{
+		font-weight: 100;
+		font-size:1rem;
+	}
+
+}
